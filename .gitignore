@@ -32,6 +32,7 @@ data/
 *.jpg
 *.jpeg
 *.txt
+!requirements.txt
 *.obj
 *.json
 *.yaml
